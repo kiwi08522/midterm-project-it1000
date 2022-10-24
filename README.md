@@ -2,9 +2,7 @@ Markdown Project - Homepage
 
 Ryan Barnard
 ------------
-<script>
-var date = new Date() document.write(date)
-</script>
+  var date = new Date() document.write(date)
 ### Please select a menu option:
 
 *   [My Hobbies](hobbies.md)
